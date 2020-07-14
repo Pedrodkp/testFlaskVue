@@ -1,2 +1,3 @@
 # testFlaskVue
-Teste de como se comporta o flask com o Vue
+
+Tutorial CRUD: https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/
